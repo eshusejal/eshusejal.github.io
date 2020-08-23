@@ -1,0 +1,114 @@
+* {
+    padding: 0px;
+    margin: 0%;
+    border: 0px 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* top div CSS below */
+
+.top {
+    background-color: purple;
+}
+
+.top p {
+    color: white;
+    margin-bottom: 0px;
+}
+
+.top p {
+    text-align: right;
+}
+
+/* vertical-menu CSS below */
+
+.row-top {
+    width: 70%;
+}
+
+.vertical-menu {
+    width: 300px;
+
+}
+
+.vertical-menu a {
+    background-color: rgb(163, 33, 163);
+    color: black;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    flex-grow: 1;
+    border: 1px solid rgb(104, 12, 104);
+}
+
+.button1 {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 700px;
+    margin-top: 5px;
+    border-radius: 70%;
+    position: absolute;
+    float: right;
+}
+
+/* sticker CSS below */
+
+.main-img {
+    width: 180px;
+    margin-left: 200px;
+    margin-top: 300px;
+    opacity: 0.5;
+}
+
+/* footer CSS below */
+
+footer {
+    background-color: purple;
+    color: white;
+    margin-top: 150px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    color: inherit;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-instagram {
+    background: rgb(193,53,132);
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+
+.foot-p {
+    margin-left: 10px;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: auto;
+}
